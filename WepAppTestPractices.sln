@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepAppTestPractices.MVC", "WepAppTestPractices.MVC\WepAppTestPractices.MVC.csproj", "{321993A5-7481-4C6A-99AF-4B733A44DB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepAppTestPractices.Test", "WepAppTestPractices.Test\WepAppTestPractices.Test.csproj", "{A7539BA8-2407-441C-97B2-35F510E26F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321993A5-7481-4C6A-99AF-4B733A44DB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321993A5-7481-4C6A-99AF-4B733A44DB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321993A5-7481-4C6A-99AF-4B733A44DB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321993A5-7481-4C6A-99AF-4B733A44DB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7539BA8-2407-441C-97B2-35F510E26F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7539BA8-2407-441C-97B2-35F510E26F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7539BA8-2407-441C-97B2-35F510E26F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7539BA8-2407-441C-97B2-35F510E26F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C701BB7A-EB11-47CD-A4AF-2215241DD1C8}
+	EndGlobalSection
+EndGlobal
